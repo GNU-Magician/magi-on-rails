@@ -1,0 +1,37 @@
+$navbar-default-bg: #400b59;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: #F7F7F7;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#logo:hover{
+  color: #fff;
+  text-decoration: none;
+}
+
+.center{
+  text-align: center;
+}
+
+.jumbotron {
+  background: inherit;
+}
+body {
+  background-image: asset-url('8bitcity.jpg')
+
+
+}
+
+
+.btn-xlarge{
+  font-size: 1.7em;
+  background: #93395A;
+}
