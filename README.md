@@ -1,4 +1,5 @@
 # README
+Edit: This project is now complete. Hooray. No further updates will be made to it probably.
 
 This is my project to set up a blog. Nothing to say about it. You're free to use/study it.
 Languages used were Ruby (and Rails), HTML (with Bootstrap), CSS (with sass)
