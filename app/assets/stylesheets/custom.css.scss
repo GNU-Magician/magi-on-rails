@@ -89,3 +89,14 @@ a {
   list-style: none;
   padding-left: 0;
 }
+
+.badge {
+  background: #eaeaea;
+  text-transform: uppercase;
+  letter-spacing: -1;
+  font-weight: bold;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
